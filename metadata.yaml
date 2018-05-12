@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9917
     wikipedia: http://it.wikipedia.org/wiki/Giuseppe_Cesare_Abba
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21425#Le-rive-della-Bormida-nel-1794
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2007-05-12'
 gutenberg_type: Text
